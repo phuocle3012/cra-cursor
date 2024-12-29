@@ -1,0 +1,42 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "riskScore": 25,
+      "accountAgeDays": 180,
+      "customerAgeYears": 35,
+      "lifetimeDepositAmount": 5000,
+      "depositAccountCount": 2,
+      "duplicateAccountCount": 0,
+      "slotsAverageBet": 10,
+      "tableGamesAverageBet": 20,
+      "pepStatus": false,
+      "kycVerified": true,
+      "tamperedDocuments": false,
+      "eddStatus": "Completed",
+      "withdrawalToDepositAmountRatio": 0.8,
+      "withdrawalToDepositCountRatio": 0.5,
+      "scoreAdjustment": 0
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "riskScore": 75,
+      "accountAgeDays": 30,
+      "customerAgeYears": 28,
+      "lifetimeDepositAmount": 50000,
+      "depositAccountCount": 5,
+      "duplicateAccountCount": 1,
+      "slotsAverageBet": 50,
+      "tableGamesAverageBet": 100,
+      "pepStatus": true,
+      "kycVerified": false,
+      "tamperedDocuments": false,
+      "eddStatus": "Pending",
+      "withdrawalToDepositAmountRatio": 1.2,
+      "withdrawalToDepositCountRatio": 0.9,
+      "scoreAdjustment": 10
+    }
+  ]
+} 
